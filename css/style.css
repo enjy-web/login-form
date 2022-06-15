@@ -60,7 +60,7 @@ input[type="text"]{
  }
  .line{
     display: block;
-    width:140%;
+    width:110%;
     height:2px;
     border:1px solid white;
    margin:3% 10%;
