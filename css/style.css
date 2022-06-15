@@ -60,7 +60,7 @@ input[type="text"]{
  }
  .line{
     display: block;
-    width:90%;
+    width:60%;
     height:2px;
     border:1px solid white;
    margin:3% 10%;
@@ -68,7 +68,7 @@ input[type="text"]{
 .btn{
     background-color:rgb(244, 200, 57); 
     border-radius:55vh;
-    width:140%;
+    width:60%;
     color:white;
    margin:5% 10%;
    font-weight: bold;
